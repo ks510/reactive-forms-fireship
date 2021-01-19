@@ -37,6 +37,7 @@ import { fromEventPattern } from 'rxjs';
     BrowserAnimationsModule,
     MatInputModule,
     MatSelectModule,
+    MatButtonModule,
     MatCheckboxModule,
     MatChipsModule
   ],
